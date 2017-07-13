@@ -16,7 +16,12 @@ objectives:
 - [ ] less human-dependent: own aesthetics
 - [ ] new sound! add or mod soundgen modules
 
+people:
+[tirre](http://facebook.com/CardamomxNe), [alma laprida](http://almalaprida.com.ar/)
+
 -------
+
+**warning**: this is experimental free software. it will probably require some fiddling with dependencies and code tampering in order to run in any setup but the original lab boxes it was developed for. you can contact me for assistance, questions or ideas to share at [yaco@yaco.net](mailto:yaco@yaco.net).
 
 all software licensed under the terms of the GNU General Public License:  
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)

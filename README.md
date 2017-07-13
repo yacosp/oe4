@@ -6,6 +6,13 @@ fourth prototype for _oveja eléctrica_, an ongoing project with the goal of cre
 copyright (c) 2003-2017 Santiago Peresón
 
 
+_nanocultures takeover_
+
+objectives:
+- [ ] less human-dependent: own aesthetics
+- [ ] new sound! add or mod soundgen modules
+
+
 all software licensed under the terms of the GNU General Public License:  
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 

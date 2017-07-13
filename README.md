@@ -16,7 +16,7 @@ objectives:
 - [ ] less human-dependent: own aesthetics
 - [ ] new sound! add or mod soundgen modules
 
-people:
+people:  
 [tirre](http://facebook.com/CardamomxNe), [alma laprida](http://almalaprida.com.ar/)
 
 -------

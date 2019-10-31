@@ -1,11 +1,11 @@
 # oe4
 
-**oe4:nanoclt** (2008, 2017...)
+**oe4:nanoclt** (2008, 2017, 2019...)
 
 fourth prototype for _oveja eléctrica_, an ongoing project with the goal of creating an artificial composer.  
 copyright (c) 2003-2017 Santiago Peresón
 
-_nanocultures takeover_
+_small things_
 
 -------
 
@@ -13,11 +13,12 @@ _nanocultures takeover_
 there's no code here... yet! will start working on this probably when [oe3.1:idwgu](https://github.com/yacosp/oe3/milestone/2) is done.
 
 objectives:
-- [ ] less human-dependent: own aesthetics
+- [ ] less human-dependent: own aesthetics - nanocultures!
+- [ ] real modularization: dockerizing, microservicing, atomizing.
 - [ ] new sound! add or mod soundgen modules
 
 people:  
-[tirre](http://facebook.com/CardamomxNe), [alma laprida](http://almalaprida.com.ar/)
+[tirre](https://www.facebook.com/Tirremomo/), [alma laprida](https://twitter.com/AlmaLaprida)
 
 -------
 

@@ -2,10 +2,4 @@
 DEPENDENCIES (planned)
 --------------------------------------------------------------------------------
 
-python 3.5.x
-enscribe 0.1.0 (http://jbd.zayda.net/enscribe/)
-sox 14.4.1
-ecasound 2.9.1
-csound 6.08
-oggenc / vorbis tools 1.4
-
+python 3.8.x
